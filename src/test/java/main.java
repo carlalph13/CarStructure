@@ -8,6 +8,7 @@ public class main {
         audi.Doors = "2";
         audi.Model = "A90";
 
+ HEAD
         CarFeature1 tire =new CarFeature1();
         tire.tyre="4";
         tire.tyrecolor="blue";
@@ -15,5 +16,12 @@ public class main {
         tire.tyreWidth="18";
 
 
+
+
+        Lights light=new Lights();
+        light.color="blue";
+        light.opacity="50";
+        light.size="40'";
+   Arthur
     }
 }
